@@ -1,1 +1,1 @@
-FROM xyouxiu6/chatgpt-to-api:v1
+FROM xyouxiu6/chatgpt-to-api:v2
